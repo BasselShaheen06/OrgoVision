@@ -126,10 +126,6 @@ OrgoVision/
 ├── requirements.txt    # Dependencies
 ├── models_/            # Trained model files
 ├── finalTest_/           # Some dataset to test the model
-
-https://github.com/user-attachments/assets/ab2bb55d-c255-4ff5-b459-0a3296112967
-
-
 ├── LICENSE              # MIT License
 ├── requirements.txt     # Requirements.txt file
 ├── README.md            # README file
