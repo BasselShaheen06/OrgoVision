@@ -174,6 +174,8 @@ Having issues? We're here to help:
 - Email us at [support@orgovision.com](mailto\:bassel.abdelmonem@eng-st.cu.edu.eg)
 - Check out our FAQ section
 
+*Note: This README will be updated as the project evolves. Last updated: January 2025*
+
 ---
 
 
@@ -182,6 +184,4 @@ Having issues? We're here to help:
 Watch a short video demonstration of the application in action:
 ![Watch here](https://github.com/user-attachments/assets/73cb0d59-4245-4311-8e0b-b2dcc15d1909)
 
-
-*Note: This README will be updated as the project evolves. Last updated: January 2025*
 
