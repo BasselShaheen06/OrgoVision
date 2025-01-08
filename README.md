@@ -81,8 +81,6 @@ The application will display:
 - Confidence percentage
 - Original image with automatic scaling
 
-## Screenshots
-
 ### Prediction Results
 
 Below is a screenshot showing the prediction results:
@@ -93,13 +91,6 @@ Below is a screenshot showing the prediction results:
 
 The confusion matrix provides a visual representation of the model's performance:
 ![confusion_matrix](https://github.com/user-attachments/assets/e40f7b55-af4c-48c6-a5fa-b3e3212dba3c)
-
-
-### Application in Action
-
-Watch a short video demonstration of the application in action:
-![Watch here](https://github.com/user-attachments/assets/73cb0d59-4245-4311-8e0b-b2dcc15d1909)
-
 
 
 ## Development Setup
@@ -184,6 +175,13 @@ Having issues? We're here to help:
 - Check out our FAQ section
 
 ---
+
+
+### Application in Action
+
+Watch a short video demonstration of the application in action:
+![Watch here](https://github.com/user-attachments/assets/73cb0d59-4245-4311-8e0b-b2dcc15d1909)
+
 
 *Note: This README will be updated as the project evolves. Last updated: January 2025*
 
