@@ -7,6 +7,7 @@ OrgoVision is a powerful desktop application designed to identify and classify o
 The OrgoVision UI is designed to be simple and intuitive, featuring easy-to-navigate buttons and real-time feedback. Users can quickly upload images, view predictions, and access detailed confidence metrics in a clean interface.
 
 Below is a sample screenshot of the UI:
+![Ui](https://github.com/user-attachments/assets/7ddcc765-d2a6-4a5d-a60b-a0ecfd77a8a8)
 
 
 
@@ -51,10 +52,10 @@ Before launching OrgoVision, ensure you have saved the model weights properly. F
 
 1. Open the `Classify.ipynb` notebook.
 2. Run the cells that train or load the model.
-3. Use the following command to save the weights:
+3. run the following cell to save the weights:
 
    ```python
-   model.save_weights('models/orgovision_weights.h5')
+   lenet_model.save('OrgoVision/my_model.keras')
    ```
 
    Ensure the `models/` directory exists or create it using:
@@ -85,18 +86,19 @@ The application will display:
 ### Prediction Results
 
 Below is a screenshot showing the prediction results:
-
-
+![Prediction4](https://github.com/user-attachments/assets/e375dfe4-9837-48cc-acd8-e51da92da5b1)
+![Prediction3](https://github.com/user-attachments/assets/84831f94-f95e-4aaa-8c5e-1c7fc3b3f3fa)
 
 ### Confusion Matrix
 
 The confusion matrix provides a visual representation of the model's performance:
-
+![confusion_matrix](https://github.com/user-attachments/assets/e40f7b55-af4c-48c6-a5fa-b3e3212dba3c)
 
 
 ### Application in Action
 
 Watch a short video demonstration of the application in action:
+https://github.com/user-attachments/assets/73cb0d59-4245-4311-8e0b-b2dcc15d1909
 
 
 
@@ -112,6 +114,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install development dependencies
 pip install -r requirements-dev.txt
 ```
+
 
 ## Model Information
 
@@ -129,7 +132,10 @@ OrgoVision/
 ├── requirements.txt    # Dependencies
 ├── models_/            # Trained model files
 ├── finalTest_/           # Some dataset to test the model
-├── screenshots_/           # Screenshots folder
+
+https://github.com/user-attachments/assets/ab2bb55d-c255-4ff5-b459-0a3296112967
+
+
 ├── LICENSE              # MIT License
 ├── requirements.txt     # Requirements.txt file
 ├── README.md            # README file
@@ -165,7 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Medical imaging dataset provided by [Institution Name]
+- Medical imaging dataset provided by [AOMIC]
 - Special thanks to the TensorFlow and OpenCV communities
 - UI design inspired by modern medical software interfaces
 
@@ -174,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Having issues? We're here to help:
 
 - Open an issue on GitHub
-- Email us at [support@orgovision.com](mailto\:support@orgovision.com)
+- Email us at [support@orgovision.com](mailto\:bassel.abdelmonem@eng-st.cu.edu.eg)
 - Check out our FAQ section
 
 ---
