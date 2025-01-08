@@ -182,6 +182,6 @@ Having issues? We're here to help:
 ### Application in Action
 
 Watch a short video demonstration of the application in action:
-![Watch here](https://github.com/user-attachments/assets/73cb0d59-4245-4311-8e0b-b2dcc15d1909)
+https://github.com/user-attachments/assets/73cb0d59-4245-4311-8e0b-b2dcc15d1909
 
 
