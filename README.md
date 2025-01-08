@@ -92,10 +92,9 @@ Below is a screenshot showing the prediction results:
 The confusion matrix provides a visual representation of the model's performance:
 ![confusion_matrix](https://github.com/user-attachments/assets/e40f7b55-af4c-48c6-a5fa-b3e3212dba3c)
 
-### Application in Action
+### Application in Action (Video)
 
 https://github.com/user-attachments/assets/73cb0d59-4245-4311-8e0b-b2dcc15d1909
-Watch a short video demonstration of the application in action
 
 ## Development Setup
 
