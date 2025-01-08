@@ -98,7 +98,7 @@ The confusion matrix provides a visual representation of the model's performance
 ### Application in Action
 
 Watch a short video demonstration of the application in action:
-https://github.com/user-attachments/assets/73cb0d59-4245-4311-8e0b-b2dcc15d1909
+![Watch here](https://github.com/user-attachments/assets/73cb0d59-4245-4311-8e0b-b2dcc15d1909)
 
 
 
