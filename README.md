@@ -161,8 +161,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Medical imaging dataset provided by [AOMIC]
+- Medical imaging dataset provided by [AOMIC, Seniors at NewGiza university]
 - Special thanks to the TensorFlow and OpenCV communities
+- Unforgettable help from our colleague ![MuhamedSalah](https://github.com/MuhamedSalah10)
 - UI design inspired by modern medical software interfaces
 
 ## Support
